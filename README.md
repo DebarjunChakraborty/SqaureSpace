@@ -13,7 +13,7 @@ This project is a custom SquareSpace website that leverages HTML, CSS, and JavaS
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/DebarjunChakraborty/SqaureSpace.git
 
 2. Install dependencies:
 This project does not have any specific dependencies to install other than the GSAP library, which can be included via a CDN.
